@@ -12,7 +12,7 @@ const app = express();
 
 const allowedOrigins = [
   "http://localhost:5173",
-  "https://e-backend-scgm.onrender.com",
+  "https://e-frontend-rafu.vercel.app",
 ];
 
 const corsOptions = {
